@@ -1,5 +1,5 @@
 {
-  "postbuild":"ng build  --prod --base-href /http://mohali456-001-site6.ctempurl.com/api/",
+  
   "heroku-postbuild": "ng build --prod",
   "name": "demo-app",
   "version": "0.0.0",
